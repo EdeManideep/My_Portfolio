@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/EDE_MANIDEEP_RESUME_2025.pdf'
+import resume from '../assets/pdf/EDE_MANIDEEP_2025.pdf'
 import profile_image from '../assets/my_pic.JPG'
 
 export const headerData = {
