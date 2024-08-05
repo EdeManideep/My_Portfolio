@@ -169,7 +169,7 @@ function Landing() {
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='2100039095_EDE_MANIDEEP_RESUME_2025'
+                                    download='2100039095_EDE_MANIDEEP_KLU_2025_RESUME'
                                     target='_blank'
                                     rel='noreferrer'
                                 >
