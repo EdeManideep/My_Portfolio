@@ -13,10 +13,11 @@ import {
     FaLinkedin,
     FaGithub,
     FaInstagram,
-    FaGoogle,
     // FaYoutube,
     // FaBlogger,
 } from 'react-icons/fa';
+
+import gmailIcon from '../../assets/svg/social/gmail.svg';
 
 function Landing() {
     const { theme, drawerOpen } = useContext(ThemeContext);
@@ -118,11 +119,13 @@ function Landing() {
                         )}
                         {socialsData.gmail && (
                             <a
-                                href={socialsData.gmail}
+                                href={`mailto:${socialsData.gmail}`}
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaGoogle
+                                <img
+                                    src={gmailIcon}
+                                    alt='Gmail'
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='Gmail'
@@ -169,7 +172,7 @@ function Landing() {
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='2100039095_EDE_MANIDEEP_KLU_2025_RESUME'
+                                    download='2100039095_EDE_MANIDEEP_RESUME_2025'
                                     target='_blank'
                                     rel='noreferrer'
                                 >
