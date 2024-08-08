@@ -22,8 +22,8 @@ export const experienceData = [
         company: 'Oasis InfoByte',
         jobtitle: 'Web Development',
         startYear: '2024 ',
-        endYear: ' Present',
-        // url : '',
+        endYear: ' 2024',
+        url : 'https://raw.githubusercontent.com/EdeManideep/My_Portfolio/main/images/Oasis_Infobyte.jpg',
         icon : 'https://raw.githubusercontent.com/EdeManideep/My_Portfolio/main/images/Oasis_InfoByte-logo.png'
     },
 ]
