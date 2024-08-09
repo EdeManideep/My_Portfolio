@@ -8,7 +8,7 @@ import {
     FaTwitter,
     FaLinkedinIn,
     FaGithub,
-    FaGoogle,
+    // FaGoogle,
     FaYoutube,
     FaBloggerB,
     FaRedditAlien,
@@ -26,6 +26,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { socialsData } from '../../data/socialsData';
 import { contactsData } from '../../data/contactsData';
 import './Contacts.css';
+import gmailIcon from '../../assets/svg/social/gmail.svg';
 
 function Contacts() {
     const [open, setOpen] = useState(false);
@@ -366,7 +367,7 @@ function Contacts() {
                                     rel='noreferrer'
                                     className={classes.socialIcon}
                                 >
-                                    <FaGoogle aria-label='Gmail' />
+                                    <gmailIcon aria-label='Gmail' />
                                 </a>
                             )}
                             {socialsData.blogger && (
