@@ -361,15 +361,15 @@ function Contacts() {
                                 </a>
                             )}
                             {socialsData.gmail && (
-                                <a
-                                    href={socialsData.gmail}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <gmailIcon aria-label='Gmail' />
-                                </a>
-                            )}
+                            <a
+                                href={socialsData.gmail}
+                                target='_blank'
+                                rel='noreferrer'
+                                className={classes.socialIcon}
+                            >
+                                <img src={gmailIcon} alt="Gmail" style={{ width: '21px', height: '21px' }} />
+                            </a>
+                        )}
                             {socialsData.blogger && (
                                 <a
                                     href={socialsData.blogger}
