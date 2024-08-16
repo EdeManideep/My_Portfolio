@@ -19,7 +19,7 @@
   left: 35%;
   transform: translateX(-50%);
   width: var(--img-size);
-  height: var(--img-size);
+  height: 470px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
