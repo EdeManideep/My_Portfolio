@@ -76,14 +76,17 @@
 }
 
 .achievecard-details2 h5 {
-   width: 50%;
+   width: 40%;
 }
 
 .achievecard-field {
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .achievecard-field svg {
@@ -235,4 +238,3 @@
     }
 
 }
-
