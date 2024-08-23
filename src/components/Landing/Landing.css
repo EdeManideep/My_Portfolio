@@ -18,8 +18,8 @@
   position: absolute;
   left: 35%;
   transform: translateX(-50%);
-  width: 350px;
-  height: 400px;
+  width: 340px;
+  height: 390px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
