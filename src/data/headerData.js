@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/EDE_MANIDEEP_2025.pdf'
-import profile_image from '../assets/PASSPORT_SIZE_PHOTO-White.png'
+import profile_image from '../assets/PASSPORT_SIZE_PHOTO-White - Copy.png'
 
 export const headerData = {
     name: 'Ede Manideep',
