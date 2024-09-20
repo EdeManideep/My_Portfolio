@@ -6,7 +6,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Restaurant Web App - ( Flavors of India )',
-        projectDesc: 'Developed a web application for an Indian restaurant, enabling users to browse the menu, make reservations, and place
+        projectDesc: 'Developed a web application for an Indian restaurant, enabling users to browse the menu, make reservations and place
 pickup orders. Built with a responsive React.js frontend and a Node.js backend, the app efficiently handles user data, order
 processing, and customer information storage',
         tags: ['Visual Studio Code', 'CockroachDB', 'SheetDB', 'React.js', 'Node.js', 'JSX', 'CSS'],
