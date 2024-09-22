@@ -1,3 +1,4 @@
+import one from '../assets/svg/projects/flavors of india.jpeg';
 import three from '../assets/svg/projects/temperature_converter_icon.png';
 import four from '../assets/svg/projects/rock-paper-scissors.png';
 import five from '../assets/svg/projects/live-clock.png';
@@ -10,7 +11,7 @@ export const projectsData = [
     tags: ['Visual Studio Code', 'CockroachDB', 'SheetDB', 'React.js', 'Node.js', 'JSX', 'CSS'],
     code: 'https://github.com/EdeManideep/react-restaurant-app.git',
     demo: 'https://react-restaurant-app1.netlify.app/',
-    image: three
+    image: one
   },
   {
     id: 2,
