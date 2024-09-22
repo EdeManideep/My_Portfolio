@@ -1,4 +1,5 @@
 import one from '../assets/svg/projects/flavors of india.jpeg';
+import two from '../assets/svg/projects/vote.png';
 import three from '../assets/svg/projects/temperature_converter_icon.png';
 import four from '../assets/svg/projects/rock-paper-scissors.png';
 import five from '../assets/svg/projects/live-clock.png';
@@ -20,7 +21,7 @@ export const projectsData = [
     tags: ['Spring Tool Suite', 'MySQL', 'Java', 'HTML', 'CSS', 'JavaScript'],
     code: '',
     demo: '',
-    image: three
+    image: two
   },
   {
     id: 3,
