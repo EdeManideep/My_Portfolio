@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/EDE_MANIDEEP_2025.pdf'
+import resume from '../assets/pdf/2100039095_EDE_MANIDEEP_KLU_2025_RESUME_NO_PIC_SOFTWARE_HEADER.pdf'
 import profile_image from '../assets/PASSPORT_SIZE_PHOTO-White - Copy.png'
 
 export const headerData = {
