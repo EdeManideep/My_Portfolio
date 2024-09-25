@@ -12,7 +12,7 @@ export const projectsData = [
     id: 1,
     projectName: 'Restaurant Web App',
     projectDesc: 'Developed a web application for an Indian restaurant with a React.js frontend and Node.js backend, enabling users to browse the menu, make reservations, and place pickup orders.',
-    tags: ['Visual Studio Code', 'CockroachDB', 'SheetDB', 'React.js, Node.js', 'JSX, CSS'],
+    tags: ['CockroachDB', 'SheetDB', 'React.js, Node.js', 'JSX, CSS'],
     code: 'https://github.com/EdeManideep/react-restaurant-app.git',
     demo: 'https://react-restaurant-app1.netlify.app/',
     image: one
