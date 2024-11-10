@@ -18,6 +18,15 @@ export const achievementData = {
             url:"https://learn.microsoft.com/api/credentials/share/en-us/manideep-8571/5CB49C04CD9F1465?sharingId=D826953F7BF2950D",
             image : 'https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000'
         },
+        // {
+        //     id : 2,
+        //     title : 'AZ - 900 certification',
+        //     details : 'The AZ-900 exam is a Microsoft certification that validates foundational knowledge of cloud concepts and Microsoft Azure.',
+        //     date : '2023',
+        //     field : 'Cloud',
+        //     url:"https://learn.microsoft.com/api/credentials/share/en-us/manideep-8571/5CB49C04CD9F1465?sharingId=D826953F7BF2950D",
+        //     image : 'https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000'
+        // },
         {
             id : 3,
             title : 'Oracle Cloud Infrastructure',
