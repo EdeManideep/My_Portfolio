@@ -18,17 +18,17 @@ export const achievementData = {
             url:"https://learn.microsoft.com/api/credentials/share/en-us/manideep-8571/5CB49C04CD9F1465?sharingId=D826953F7BF2950D",
             image : 'https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000'
         },
-        // {
-        //     id : 2,
-        //     title : 'AZ - 900 certification',
-        //     details : 'The AZ-900 exam is a Microsoft certification that validates foundational knowledge of cloud concepts and Microsoft Azure.',
-        //     date : '2023',
-        //     field : 'Cloud',
-        //     url:"https://learn.microsoft.com/api/credentials/share/en-us/manideep-8571/5CB49C04CD9F1465?sharingId=D826953F7BF2950D",
-        //     image : 'https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000'
-        // },
         {
             id : 3,
+            title : 'Wipro TalentNext  Java Full Stack',
+            details : 'The Wipro TalentNext Java Full Stack Certification validates foundational knowledge and practical skills in full-stack development, covering Java, front-end, and back-end technologies.',
+            date : '2024',
+            field : 'Full Stack',
+            url:"https://raw.githubusercontent.com/EdeManideep/My_Portfolio/refs/heads/main/images/Wipro%20TalentNext%20%20Java%20Full%20Stack%20Certification.png",
+            image : 'https://logowik.com/content/uploads/images/wipro4247.logowik.com.webp'
+        },
+        {
+            id : 4,
             title : 'Oracle Cloud Infrastructure',
             details : 'Oracle Cloud Infrastructure is a cloud computing platform that provides a wide range of services, including compute, storage, networking, and databases.',
             date : '2023',
@@ -37,7 +37,7 @@ export const achievementData = {
             image : 'https://img.icons8.com/?size=100&id=39913&format=png&color=000000'
         },
         {
-            id : 4,
+            id : 5,
             title : 'Automation Anywhere Certified Essentials RPA Professional',
             details : 'validates your knowledge of RPA fundamentals and your ability to use the Automation Anywhere platform to automate business processes.',
             date : '2023',
@@ -46,7 +46,7 @@ export const achievementData = {
             image : 'https://logowik.com/content/uploads/images/automation-anywhere1292.logowik.com.webp'
         },
         {
-            id :5,
+            id :6,
             title : 'HackerRank Certifications',
             details : 'HackerRank certifications validate your coding skills and problem-solving abilities in various programming languages and technical domains.',
             date : '2024',
